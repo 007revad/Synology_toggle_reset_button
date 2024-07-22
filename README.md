@@ -5,6 +5,12 @@ Script to disable or enable the reset button and show current setting
 - If you run the script with the enable option it will enable the reset button.
 - If you run the script without any option it will show the current reset button status.
 
+### Download the script
+
+1. Download the latest version _Source code (zip)_ from https://github.com/007revad/Synology_toggle_reset_button/releases
+2. Save the download zip file to a folder on the Synology.
+3. Unzip the zip file.
+
 ## There are 2 ways to run the script
 
 ### Scheduling the script in Synology's Task Scheduler
