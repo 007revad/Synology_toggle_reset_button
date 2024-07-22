@@ -50,4 +50,19 @@ sudo /volume1/scripts/toggle_reset_button.sh disable
 sudo /volume1/scripts/toggle_reset_button.sh enable
 ```
 
+### Screenshots
+
+<p align="center">Checking current status</p>
+<p align="center"><img src="/images/check.png"></p>
+
+<br>
+
+<p align="center">Disabling the reset button</p>
+<p align="center"><img src="/images/disable.png"></p>
+
+<br>
+
+<p align="center">Enabling the reset button</p>
+<p align="center"><img src="/images/enable.png"></p>
+
 <br>
