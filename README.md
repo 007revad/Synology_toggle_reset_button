@@ -7,15 +7,15 @@ Script to disable or enable the reset button and show current setting
 
 To check the current setting of the reset button:
 ```
-/volume1/scripts/toggle_reset_button.sh
+sudo /volume1/scripts/toggle_reset_button.sh
 ```
 
 To disable the reset button:
 ```
-/volume1/scripts/toggle_reset_button.sh disable
+sudo /volume1/scripts/toggle_reset_button.sh disable
 ```
 
 To enable the reset button:
 ```
-/volume1/scripts/toggle_reset_button.sh enable
+sudo /volume1/scripts/toggle_reset_button.sh enable
 ```
